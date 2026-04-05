@@ -78,11 +78,11 @@ such as VSCode's multiline editing features.
 
 These instructions are for flashing the keyboard using QMK CLI on Windows 10/11.
 
-1. Assuming the keymap `dle-rev02` exists in `keyboards/crkbd/keymaps/`,
+1. Assuming the keymap `dle_chocofi` exists in `keyboards/crkbd/keymaps/`,
    input the following command via the QMK CLI to compile the `.uf2` for the ProMicro RP2040 in `.build/`.
 
     ```
-    qmk compile -kb crkbd -km dle-rev02 -e CONVERT_TO=rp2040_ce
+    qmk compile -kb crkbd -km dle_chocofi -e CONVERT_TO=rp2040_ce
     ```
 
 2. If the chocofi keyboard is connected, disconnect it at the USB-C port.
