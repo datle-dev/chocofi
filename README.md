@@ -188,6 +188,7 @@ This is sufficient for all major symbols with a few empty spots to spare.
 |   `    |   L   |   ;   |     3-4     |
 |   #    |   J   |   L   |     1-3     |
 |   %    |   K   |   ;   |     2-4     |
+|   :    |   H   |   K   |     1-2     |
 
 #### Right Hand - Bottom Row
 
@@ -198,6 +199,7 @@ This is sufficient for all major symbols with a few empty spots to spare.
 |   ?    |   .   |   /   |     3-4     |
 |   $    |   M   |   .   |     1-3     |
 |        |   ,   |   /   |     2-4     |
+|   ;    |   N   |   ,   |     1-2     |
 
 #### Both Hands - Home Row
 
