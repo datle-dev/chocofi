@@ -82,7 +82,7 @@ These instructions are for flashing the keyboard using QMK CLI on Windows 10/11.
    input the following command via the QMK CLI to compile the `.uf2` for the ProMicro RP2040 in `.build/`.
 
     ```
-    qmk compile -kb crkbd -km dle-rev02 -e CONVERT_TO=promicro_rp2040
+    qmk compile -kb crkbd -km dle-rev02 -e CONVERT_TO=rp2040_ce
     ```
 
 2. If the chocofi keyboard is connected, disconnect it at the USB-C port.
